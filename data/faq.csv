@@ -1,0 +1,23 @@
+id,category,question,answer
+1,Admissions,How can I apply for admission?,"Apply online through the college website admission portal. Fill in the application form, upload your marksheets and pay the application fee of Rs. 500."
+2,Admissions,What documents are required for admission?,"You need your 10th and 12th marksheets, transfer certificate, Aadhaar card, 4 passport size photos and the entrance exam scorecard."
+3,Admissions,What is the last date to apply?,The last date to apply for first-year B.Tech admission is 30 June.
+4,Fees,What is the annual tuition fee?,"The annual tuition fee for B.Tech is Rs. 85,000."
+5,Fees,Can I pay fees in installments?,Yes. The annual fee can be paid in two installments: 60 percent at the time of admission and 40 percent before the start of the second semester.
+6,Fees,Are scholarships available?,Yes. Students who score more than 90 percent in 12th get a 25 percent tuition fee waiver. Government scholarships can be applied for through the accounts office.
+7,Fees,What is the late fee penalty?,"A late fee of Rs. 100 per day is charged after the due date, up to a maximum of Rs. 2,000."
+8,Exams,When are the semester exams held?,Semester exams are held in December for odd semesters and in May for even semesters.
+9,Exams,What is the minimum attendance required to sit for exams?,Students must have at least 75 percent attendance to be allowed to appear in semester exams.
+10,Exams,How can I apply for exam revaluation?,Submit the revaluation form at the exam cell within 7 days of the result declaration. The fee is Rs. 500 per subject.
+11,Exams,What is the passing mark?,The passing mark is 40 percent in each subject.
+12,Library,What are the library timings?,The library is open from 8 AM to 8 PM from Monday to Saturday. It is closed on Sundays.
+13,Library,How many books can I borrow?,Students can borrow up to 3 books at a time for a period of 14 days.
+14,Library,What is the fine for late return of books?,The fine is Rs. 2 per day for each book returned after the due date.
+15,Hostel,Is hostel accommodation available?,Yes. There are separate hostels for boys and girls. Rooms are allotted on a first-come-first-served basis after admission confirmation.
+16,Hostel,What are the hostel fees?,"The hostel fee is Rs. 60,000 per year, including mess charges."
+17,Hostel,What are the hostel gate timings?,Hostel gates close at 9 PM. Late entry needs written permission from the warden.
+18,Placement,Which companies visit for placements?,"Companies such as TCS, Infosys, Wipro and Capgemini visit the campus every year."
+19,Placement,What is the average placement package?,"The average package last year was 4.5 LPA, and the highest package was 12 LPA."
+20,Placement,When does placement training start?,Placement training starts in the third year of the course.
+21,IT Support,How do I reset my student portal password?,"Click 'Forgot Password' on the portal login page and enter your registered email. If that does not work, visit the IT help desk in Block B."
+22,IT Support,Is there Wi-Fi on campus?,"Yes. Free Wi-Fi is available in classrooms, the library and hostels. Log in using your student ID."

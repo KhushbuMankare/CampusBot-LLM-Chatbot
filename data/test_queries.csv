@@ -1,0 +1,15 @@
+query,expected_category,expected_keywords
+How do I apply for admission?,Admissions,online|500
+What is the deadline for the B.Tech admission form?,Admissions,June
+How much is the yearly tuition?,Fees,85000
+Can I split my fee payment into parts?,Fees,two|60
+What attendance do I need to write the exams?,Exams,75
+When are the even semester exams conducted?,Exams,May
+My student portal password is not working,IT Support,Forgot|Block B
+Till what time is the library open?,Library,PM|8
+What is the penalty for returning a book late?,Library,2|day
+When do the hostel gates close at night?,Hostel,9|PM
+Which companies come for campus recruitment?,Placement,TCS|Infosys
+What is the highest package offered?,Placement,12
+What is the weather like today?,Other,
+How do I connect to the campus Wi-Fi?,IT Support,student ID
