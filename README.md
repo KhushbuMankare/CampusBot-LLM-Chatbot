@@ -85,7 +85,7 @@ chatbot_project/
    ```
 4. *(Optional)* To use a different Gemini model, add:
    ```
-   GEMINI_MODEL=gemini-2.5-flash
+   GEMINI_MODEL=gemini-3.5-flash-lite
    ```
    If Google retires this model name in the future, put the name of a current Flash model here.
 
